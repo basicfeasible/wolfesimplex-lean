@@ -5,6 +5,8 @@ the Simplex Method** ([arXiv:2611.12680](https://arxiv.org/abs/2611.12680)).
 
 Authors: Yann Disser and Nils Mosis (TU Darmstadt, Germany).
 To cite this formalization, see [`CITATION.cff`](CITATION.cff).
+Version v1.0 (the version accompanying the arXiv paper) is archived on Zenodo:
+[doi:10.5281/zenodo.24136107](https://doi.org/10.5281/zenodo.24136107).
 
 ## Verification status
 
