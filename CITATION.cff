@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite it as below."
+type: software
+title: "WolfeSimplex: Lean formalization of \"Wolfe's Minimum-Norm-Point Method Generalizes the Simplex Method\""
+authors:
+  - family-names: Disser
+    given-names: Yann
+    orcid: "https://orcid.org/0000-0002-2085-0454"
+    affiliation: "TU Darmstadt, Germany"
+  - family-names: Mosis
+    given-names: Nils
+    orcid: "https://orcid.org/0000-0002-0692-0647"
+    affiliation: "TU Darmstadt, Germany"
+license: Apache-2.0
+repository-code: "https://github.com/basicfeasible/wolfesimplex-lean"
+version: "1.0"
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - linear programming
+  - simplex method
+  - Wolfe's method
+preferred-citation:
+  type: article
+  title: "Wolfe's Minimum-Norm-Point Method Generalizes the Simplex Method"
+  authors:
+    - family-names: Disser
+      given-names: Yann
+      orcid: "https://orcid.org/0000-0002-2085-0454"
+    - family-names: Mosis
+      given-names: Nils
+      orcid: "https://orcid.org/0000-0002-0692-0647"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2611.12680"
+      description: "arXiv preprint"
+  url: "https://arxiv.org/abs/2611.12680"
